@@ -1,0 +1,1167 @@
+
+/* Normal desktop :1200px. */
+@media (max-width: 1499px) {
+
+
+    /* */
+    .hero-content h1 {
+        font-size: 45px;
+        line-height: 57px;
+        margin-bottom: 10px;
+    }
+    .hero-content h4 {
+        margin-bottom: 25px;
+    }
+    h4 {
+        font-size: 18px;
+    }
+    .hero-content__desc p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .btn {
+        border-radius: 40px;
+        font-size: 15px;
+        line-height: 15px;
+    }
+    .hero-content__btn-video span {
+        height: 40px;
+        width: 40px;
+        --border-width: 1px;
+    }
+    .hero-content__btn-video {
+        margin-left: 12px;
+        --border-widht: 1px;
+        font-size: 15px;
+    }
+    h3 {
+        font-size: 23px;
+    }
+    .hero-card p {
+        margin-bottom: 20px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .hero-card {
+        min-height: 374px;
+        padding: 20px 35px;
+    }
+    .hero-card p {
+        margin-bottom: 15px;
+    }
+    .hero-bottom {
+        padding-bottom: 40px;
+    }
+    .cryptos-padding1 {
+        padding-top: 50px;
+        padding-bottom: 80px;
+    }
+    .cryptos-list h5 {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 16px;
+        margin-bottom: 25px;
+    }
+    .cryptos-item__left span {
+        height: 30px;
+        width: 30px;
+        margin-right: 9px;
+    }
+    .cryptos-item p {
+        font-size: 15.5px;
+    }
+    .cryptos-total__content h3 {
+        line-height: 29px;
+        margin-bottom: 13px;
+    }
+    .cryptos-total__content .total-box h1 {
+        font-size: 35px;
+    }
+    .cryptos-total__content .total-box {
+        border-radius: 8px;
+        height: 100px;
+        margin-bottom: 15px;
+    }
+    .cryptos-total__content p {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 21px;
+    }
+    .cryptos-total__content .link input {
+        height: 42px;
+        padding: 0px 50px 0px 15px;
+        font-size: 14px;
+    }
+    .cryptos-total__content .link button {
+        height: 36px;
+        width: 36px;
+        top: 3px;
+        right: 3px;
+    }
+    .cryptos-bottom-row {
+        margin: 40px 0 0;
+        text-align: center;
+    }
+
+    .founder-title h4 {
+        margin-bottom: 20px;
+    }
+    .founder-title {
+        margin-bottom: 40px;
+    }
+    .founder-padding1 {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    .rps-section {
+        padding: 100px 0 80px;
+    }
+    .rps-title {
+        margin: 0 0 20px;
+    }
+
+
+    .end-ass-bx h3 {
+        font-size: 35px;
+    }
+    .end-ass-bx h6 {
+        font-size: 16px;
+        margin: 0 0 5px;
+    }
+    .esb-row .left .end-ass-bx {
+        min-width: 280px;
+    }
+    .end-ass-bx {
+        margin: 9px 0 0;
+        padding: 24px 29px 19px;
+        margin-bottom: 16px;
+    }
+    .esb-section {
+        padding: 100px 0 60px;
+    }
+
+
+    .project-s-section {
+        padding: 60px 0 110px;
+    }
+    .project-s-box .project-s-title {
+        padding: 1px 13px 35px;
+        margin-top: -19px;
+    }
+    .project-s-box p {
+        margin: 0px 0 27px;
+        font-size: 18px;
+    }
+    .fl-social ul li a {
+        --border-width: 1px;
+        height: 40px;
+        width: 40px;
+    }
+    .project-s-box .fl-social {
+        margin: 25px 70px -20px auto;
+    }
+
+    .hdb-title h5 {
+        font-size: 19px;
+    }
+    .hdb-title .h2 {
+        margin: 0 0 28px;
+    }
+    .hdb-title {
+        margin: 0 0 35px;
+    }
+    .hdb-bx .icon {
+        margin: 0 0 20px;
+        width: 45px;
+    }
+    .hdb-bx {
+        border-radius: 14px;
+        padding: 25px 17px 10px;
+    }
+    .hdb-bx h4 {
+        margin: 0 0 20px;
+        font-size: 19px;
+    }
+    .hdb-bx p {
+        font-size: 14px;
+    }
+    .hdv-section {
+        padding: 20px 0px 50px;
+    }
+
+
+    .start-s-section {
+        padding-bottom: 60px;
+    }
+
+
+    .had-section {
+        padding: 80px 0px 100px;
+    }
+    .had-title {
+        margin-bottom: 50px;
+    }
+
+    .had-form h3 {
+        font-size: 24px;
+        line-height: 30px;
+        margin-bottom: 28px;
+    }
+    .had-form {
+        flex: 0 0 auto;
+        width: 470px;
+        padding: 35px 40px;
+        min-height: 558px;
+        border-width: 2px;
+    }
+    .input-ind {
+        width: 100%;
+        height: 48px;
+        border-radius: 100px;
+        padding-left: 24px;
+        font-size: 15px;
+    }
+    .captcha {
+        width: 210px;
+        margin: 0 auto 30px;
+    }
+    .captcha img {
+        max-width: 100%;
+    }
+    .had-form .from-bottom p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .had-form a.btn {
+        padding: 15px 60px;
+        font-size: 16px;
+        margin-bottom: 32px;
+    }
+    .text-group h4 {
+        font-size: 19px;
+        line-height: 25px;
+        margin-bottom: 10px;
+    }
+    .text-group p {
+        line-height: 21px;
+        font-size: 14px;
+    }
+    .text-group {
+        margin-bottom: 30px;
+    }
+    .had-form {
+        flex: 0 0 auto;
+        width: 470px;
+        padding: 55px 40px;
+        min-height: 458px;
+    }
+
+    
+    
+
+    .team-title {
+        margin-bottom: 55px;
+    }
+    .h2 {
+        font-size: 35px;
+        margin: 0 0 22px;
+    }
+    .team-section {
+        padding: 100px 0px 70px;
+    }
+    .team-member .content h3 {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 4px;
+    }
+    .team-member .content p {
+        font-weight: 500;
+        font-size: 11.5px;
+        line-height: 18px;
+    }
+    .team-member .content ul li a {
+        width: 16px;
+    }
+    .team-member .image img {
+        max-width: 100px !important;
+    }
+    
+    .about-section {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .about-title {
+        margin-bottom: 60px;
+    }
+    .about-hpx-tg h3 {
+        padding-left: 13px;
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 14px;
+    }
+    .about-hpx-tg h3::after {
+        width: 3px;
+        height: 23px;
+    }
+    .about-hpx-tg {
+        margin-bottom: 35px;
+    }
+
+    .faq-section {
+        padding: 60px 0px 60px;
+    }
+    .faq-title {
+        margin-bottom: 50px;
+    }
+    .faq-head span.txt {
+        font-size: 20px;
+    }
+    .collapsed-content-inner {
+        padding-top: 20px;
+    }
+    .faq-single {
+        margin-bottom: 18px;
+        border-radius: 10px;
+        padding: 20px 20px 20px 24px;
+    }
+    .faqs-wrap {
+        max-width: 820px;
+    }
+    .locations-section {
+        padding: 40px 0px 95px;
+    }
+    .locations-title {
+        margin-bottom: 50px;
+    }
+
+    .location-card .text-side {
+        /* width: 40%; */
+        flex-shrink: 0;
+    }
+    .location-card .map-side iframe {
+        width: 100%;
+    }
+    .location-card .text-side h3 {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 13px;
+    }
+    .location-card .text-side p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .location-card .text-side .bottom-part a {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .location-card {
+        width: 48%;
+        padding: 24px 20px 23px 20px;
+        border-radius: 7px;
+    }
+
+    
+    .start-s-title {
+        margin: 0 0 40px;
+    }
+
+
+    .had-text-side {
+        width: 590px;
+        padding-left: 55px;
+    }
+    .had-row.row.flex-nowrap {
+        max-width: 1100px;
+    }
+    .had-form {
+        width: 440px;
+    }
+
+    .hero-card h3 {
+        font-size: 31px;
+    }
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .container{
+        max-width: 1160px;
+    }
+    #menu li a {
+        font-size: 15px;
+    }
+    #menu li {
+        margin: 0 11px;
+    }
+    .vid-wrapper .vid-html5 video {
+        height: 100% !important;
+    }
+
+
+
+
+
+    /* sacrifice */
+    .sacrifice-box h3 {
+        font-size: 36px;
+        margin-bottom: 22px;
+    }
+    .sacrifice-box p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 25px;
+    }
+    .copy-text-box p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 25px;
+    }
+    .copy-fild input::placeholder {
+        font-size: 18px;
+    }
+    .copy-fild input {
+        font-size: 18px;
+    }
+    .sacrifice-title h2 {
+        font-size: 43px;
+        margin-bottom: 30px;
+    }
+    .coins-box p {
+        font-size: 14px;
+        padding-right: 0;
+    }
+
+}
+
+
+/* Normal desktop :992px. */
+@media (max-width: 1199px) {
+
+    .container {
+        max-width: 970px;
+    }
+    .sacrifice-area {
+        padding-top: 150px;
+    }
+    .header-btn a.btn-border-header::before {
+        left: 2px;
+        right: 1px;
+        top: 1px;
+        bottom: 1px;
+    }
+    .header-btn a {
+        padding: 14px 16px;
+    }
+    #menu li {
+        margin: 0 4px;
+    }
+    #menu li a {
+        font-size: 14px;
+    }
+    .header-flag-picker.f-right {
+        margin-left: 15px;
+        margin-top: 6px;
+    }
+    .header-icon {
+        position: relative;
+        top: 7px;
+    }
+    .header-btn {
+        position: relative;
+        top: -1px;
+    }
+    .header-area {
+        padding: 20px 0;
+    }
+
+   
+    /* alamin */
+    .team-section {
+        padding: 70px 0px 40px;
+    }
+    .about-section {
+        padding-top: 60px;
+        padding-bottom: 10px;
+    }
+    .location-card .text-side {
+        width: 40%;
+    }
+
+
+    .had-text-side {
+        flex: 0 0 auto;
+        width: 490px;
+        padding-left: 51px;
+    }
+
+    .vid-wrapper.videre-container {
+        width: 1137px !important;
+        height: 530px;
+    }
+    .vid-wrapper .vid-html5 {
+        height: 100% !important;
+    }
+    .vid-wrapper .vid-html5 video {
+        height: 100% !important;
+    }
+
+
+    .header-menu__lang .dropdown button {
+        padding-left: 0 !important;
+    }
+
+
+
+    /* sacrifice */
+    .sacrifice-title h2 {
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+    .sacrifice-box h3 {
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    .sacrifice-box p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+    .copy-text-box p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+    .copy-fild input {
+        font-size: 16px;
+    }
+    .copy-fild input::placeholder {
+        font-size: 16px;
+    }
+    .copy-fild::before {
+        top: 1px;
+    }
+    .coins-img img {
+        width: 150px;
+    }
+    .coins-img {
+        margin-bottom: 25px;
+    }
+    .coins-box h3 {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .coins-box p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .coins-box-3 p {
+        padding-right: 0;
+    }
+    
+    .coins-box {
+        height: 600px;
+    }
+    .coins-box-2 {
+        height: 290px;
+    }
+}
+
+
+
+ 
+/* Tablet desktop :768px. */
+@media (max-width: 991px) {
+    .container{
+        max-width: 750px;
+    }
+    p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .desc p br{
+        display: none;
+    }
+    .desc-share {
+        padding: 50px 50px 50px;
+        margin-bottom: 36px;
+        margin-top: 25px;
+    }
+    .desc-share__link-genaret form {
+        max-width: 480px;
+    }
+    .desc-joind {
+        padding: 40px 60px 46px 60px;
+        margin-bottom: 41px;
+    }
+    .footer-text {
+        margin-bottom: 40px;
+    }
+    .header-menu__lang .dropdown button {
+        padding-left: 0px;
+    }
+
+
+
+    /* alamin */
+    .location-card {
+        margin: 0 0 30px;
+        width: 100%;
+    }
+    .locations-row {
+        flex-wrap: wrap;
+    }
+
+
+    .hero-img {
+        margin: 0 0 30px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .hdb-bx-row {
+        --item: 2;
+    }
+
+
+    .had-row {
+        flex-wrap: wrap !important;
+    }
+    .had-form {
+        width: 100%;
+        padding: 55px 0px !important;
+        margin-bottom: 40px;
+    }
+    .had-text-side {
+        width: 100%;
+        padding: 0;
+    }
+
+    .esb-row {
+        flex-wrap: wrap;
+    }
+    .esb-row .left {
+        width: 100%;
+    }
+    .esb-row .right-chart {
+        margin-bottom: 40px;
+        width: 100%;
+        order: -1;
+    }
+
+    .cryptos-total__content {
+        width: 100%;
+    }
+    .cryptos-total__bottom {
+        margin: 20px 0 0;
+    }
+
+    /* video */
+    .vid-wrapper.videre-container {
+        width: 671px !important;
+        height: 377px !important;
+    }
+    .vid-wrapper .vid-html5 video {
+        height: 100% !important;
+    }
+    /* video-end */
+
+    html,body{
+        overflow-x: hidden;
+    }
+
+    .header-btn {
+        position: relative;
+        top: 0px;
+        float: right;
+    }
+    .header-icon {
+        position: relative;
+        top: 8px;
+    }
+
+    .hamburger-menu {
+        top: 48%;
+    }
+
+
+
+    /* sacrifice */
+    .sacrifice-area {
+        padding-top: 140px;
+    }
+    .sacrifice-title h2 {
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+    .sacrifice-box {
+        padding: 30px;
+    }
+    .sacrifice-box h3 {
+        font-size: 24px;
+        margin-bottom: 17px;
+    }
+    .sacrifice-box p {
+        font-size: 14px;
+        line-height: 23px;
+        margin-bottom: 15px;
+    }
+    .copy-text-box p {
+        font-size: 14px;
+        line-height: 23px;
+        margin-bottom: 15px;
+        padding: 0 30px;
+    }
+    .copy-text-box {
+        padding: 30px 0;
+    }
+    .copy-fild {
+        padding: 0 30px;
+        margin-bottom: 20px;
+    }
+    .coins-img img {
+        width: 150px;
+    }
+    .coins-img {
+        margin-bottom: 25px;
+    }
+    .coins-box p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .coins-box h3 {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+    .coins-box {
+        height: auto;
+        padding: 30px;
+        margin-bottom: 30px;
+    }
+    .coins-box-2 {
+        height: 275px;
+        margin: 0;
+    }
+    .copy-fild input::placeholder {
+        font-size: 14px;
+    }
+    .copy-fild input {
+        font-size: 14px;
+        height: 80px;
+        padding-left: 52px;
+    }
+    .copy-fild button {
+        width: 40px;
+        height: 40px;
+    }
+
+
+     /* menu active */
+     .hamburger-menu{
+        display: block;
+    }
+    #menu {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        width: 100vw;
+        height: 100vh;
+        background: #151920;
+        z-index: -1;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        padding-top: 115px;
+        text-align: left !important;
+        -webkit-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+        padding-left: 15px;
+    }
+    #menu.current{
+        left: 50%;
+    }
+    #menu li {
+        display: block;
+        padding-right: 0;
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+    #menu li a::before {
+        bottom: 0px;
+    }
+
+    .header-right-mobile {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 70px;
+    }
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .container{
+        max-width: 100%;
+    }
+
+    .header-padding{
+        padding: 15px 0px;
+    }
+    .header-logo a img{
+        max-width: 110px;
+    }
+    
+    
+    
+    .join-content h3 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .join-content__social a {
+        height: 50px;
+        width: 50px;
+    }
+
+    .footer-top {
+        padding-top: 40px;
+        padding-bottom: 1px;
+    }
+
+    .footer-menu {
+        margin-bottom: 22px;
+    }
+    .footer-copy p {
+        font-size: 12px;
+    }
+    .footer-link a {
+        font-size: 14px;
+    }
+    .refer-padding {
+        padding-top: 48px;
+        padding-bottom: 50px;
+    }
+    .footer-text p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    .footer-text a {
+        margin-bottom: 17px;
+    }
+ 
+    .footer-text {
+        margin-bottom: 32px;
+    }
+    .join-padding {
+        padding-top: 50px;
+        padding-bottom: 45px;
+    }
+
+    .header-menu__lang .dropdown button {
+        padding-left: 0px;
+    }
+
+    .btn.btn-borderd::after {
+        font-size: 12px;
+    }
+    .btn.btn-borderd {
+        padding: 5.3px 15px 9px;
+    }
+
+    .header-right__btns a.btn {
+        padding: 7px 11px;
+        font-size: 12px;
+    }
+
+
+
+    /* alamin */
+    .about-hpx-tg {
+        margin-bottom: 30px;
+        width: 100%;
+    }
+    .team-slider-active.owl-carousel .owl-nav button {
+        left: 0px;
+    }
+    .team-slider-active.owl-carousel .owl-nav button.owl-next {
+        right: 0px;
+    }
+    .h2 {
+        font-size: 28px;
+        margin: 0 0 20px;
+    }
+
+    .location-card {
+        flex-wrap: wrap;
+    }
+    .location-card .text-side {
+        width: 100%;
+        padding-right: 0;
+        padding-bottom: 20px;
+    }
+    .location-card .text-side .bottom-part {
+        margin-top: 5px;
+    }
+
+    .faq-head span.txt {
+        font-size: 18px;
+    }
+    .faq-single {
+        margin-bottom: 18px;
+        border-radius: 7px;
+        padding: 16px 12px 15px 16px;
+    }
+    .faq-single.gd-border::after {
+        border-radius: 7px;
+    }
+    .faq-head .ind-icon img {
+        width: 14px;
+    }
+    .h2 {
+        font-size: 22px;
+        margin: 0 0 15px;
+    }
+
+    .hero-content h1 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 9px;
+    }
+    .hero-top__padding {
+        padding-top: 90px;
+        padding-bottom: 70px;
+    }
+    .hero-content__btn {
+        flex-wrap: wrap !important;
+        flex-direction: column;
+        align-items: flex-start !important;
+    }
+    .hero-content__btn-video {
+        margin-left: 0;
+        font-size: 15px;
+        margin-top: 16px;
+    }
+    .hero-card {
+        min-height: 374px;
+        padding: 15px 20px;
+    }
+    h2 {
+        font-size: 26px;
+    }
+    .founder-padding1 {
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+    .cryptos-list {
+        padding: 35px 15px 10px 15px;
+    }
+    .cryptos-padding1 {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+    .rps-section {
+        padding: 60px 0 50px;
+    }
+
+    .esb-section {
+        padding: 60px 0 10px;
+    }
+
+    .project-s-section {
+        padding: 60px 0 60px;
+    }
+    .hdb-bx-row {
+        --item: 1;
+    }
+    .hdb-title h5 {
+        font-size: 16px;
+    }
+
+    .input-ind {
+        width: 100%;
+        max-width: 100%;
+    }
+    .had-row {
+        width: 100%;
+        margin: 0;
+    }
+    .had-form {
+        padding: 55px 20px !important;
+        margin-bottom: 40px;
+    }
+
+
+    h3 {
+        font-size: 20px;
+    }
+    .hero-card h3 {
+        line-height: 30px;
+        margin-bottom: 9px;
+    }
+    .hero-card p {
+        margin-bottom: 10px;
+    }
+    .vid-wrapper.videre-container {
+        width: 100% !important;
+        height: 240px !important;
+    }
+    .map-side {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+    .locations-section {
+        padding: 40px 0px 50px;
+    }
+
+
+    .start-s-title {
+        margin: 0 0 20px;
+    }
+
+
+    .header-area {
+        padding: 15px 0;
+    }
+    .header-flag-picker.f-right {
+        margin-left: 0px;
+        margin-top: -4px;
+    }
+     /* menu active */
+     .hamburger-menu{
+        display: block;
+    }
+    #menu {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        width: 100vw;
+        height: 100vh;
+        background: #151920;
+        z-index: -1;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        padding-top: 115px;
+        text-align: left !important;
+        -webkit-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+        padding-left: 15px;
+    }
+    #menu.current{
+        left: 50%;
+    }
+    #menu li {
+        display: block;
+        padding-right: 0;
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+    #menu li {
+        padding: 0;
+    }
+    #menu li a {
+        padding: 0;
+    }
+    #menu li a::before {
+        bottom: 0px;
+    }
+    .header-btn {
+        float: none;
+        margin: 0;
+        margin-right: 15px;
+        margin-top: 50px;
+    }
+    .header-btn a {
+        width: 100%;
+        margin: 0;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .header-icon {
+        position: relative;
+        top: 9px;
+    }
+
+    
+/* sacrifice */
+.sacrifice-box {
+	padding: 15px;
+	border-radius: 10px;
+}
+.sacrifice-area {
+	padding-top: 120px;
+}
+.sacrifice-title h2 {
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+.sacrifice-box h3 {
+	font-size: 17px;
+	margin-bottom: 15px;
+}
+.sacrifice-box p {
+	font-size: 14px;
+	line-height: 22px;
+	margin-bottom: 15px;
+}
+.copy-text-box {
+	padding: 15px 0;
+	border-radius: 10px;
+}
+.copy-text-box:before {
+	border-radius: 10px;
+}
+.copy-text-box p {
+	font-size: 14px;
+	line-height: 22px;
+	margin-bottom: 15px;
+	padding: 0 15px;
+}
+.copy-fild {
+	padding: 0 15px;
+	margin-bottom: 15px;
+}
+.coins-box {
+	height: auto;
+	padding: 15px;
+	margin-bottom: 20px;
+}
+.coins-img img {
+	width: 120px;
+}
+.coins-box p {
+	font-size: 12px;
+	line-height: 21px;
+}
+.coins-box-area {
+	margin-bottom: 30px;
+}
+.logo a {
+	font-size: 22px;
+}
+.logo a img {
+	width: 36px;
+	position: relative;
+	top: -1px;
+}
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+}
+/* Large Mobile :480px. */
+@media  (max-width: 364px) {
+    .header-right__btns{
+        display: none;
+    }
+ 
+}

@@ -1,0 +1,157 @@
+.connect-wrapper {
+  position: relative;
+}
+
+.connect-connectWrapper {
+  padding-top: 50px;
+  max-width: 1500px;
+  width: 90%;
+  margin: 0 auto;
+  background: url("/assets/images/shape.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.connect-connect {
+  width: 100%;
+  background: linear-gradient(
+    96.24deg,
+    rgba(39, 110, 163, 0.05) 0.15%,
+    rgba(15, 179, 197, 0.05) 49.29%,
+    rgba(12, 199, 125, 0.05) 98.43%
+  );
+
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 100px 20px;
+}
+.connect-image {
+  max-width: 346.52px;
+}
+.connect-text {
+  text-align: center;
+  padding: 30px 0;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.connect-bottomText {
+  padding: 0;
+  font-weight: 500;
+  padding: 100px 0;
+}
+.connect-sacrifice {
+  text-decoration: underline;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 150%;
+
+  background: linear-gradient(
+    96.24deg,
+    #276ea3 0.15%,
+    #0fb3c5 49.29%,
+    #0cc77d 98.43%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  position: relative;
+}
+/* .connect-sacrifice::before {
+  content: "";
+  width: 100%;
+  left: 50%;
+  height: 10px;
+  transform: translateX(-50%);
+  background: linear-gradient(
+    96.24deg,
+    #276ea3 0.15%,
+    #0fb3c5 49.29%,
+    #0cc77d 98.43%
+  );
+} */
+
+.connect-button {
+  background: linear-gradient(
+    96.24deg,
+    #276ea3 0.15%,
+    #0fb3c5 49.29%,
+    #0cc77d 98.43%
+  );
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  display: block;
+  padding: 20px 50px;
+  text-align: center;
+  line-height: 150%;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  color: #ffffff;
+}
+.connect-pattern {
+  position: absolute;
+  right: 0;
+  top: -65%;
+  opacity: 0.15;
+  z-index: -1;
+  width: 50%;
+}
+@media only screen and (max-width: 1399px) {
+  .connect-image {
+    width: 250px;
+  }
+  .connect-pattern {
+    width: 70%;
+  }
+}
+@media only screen and (max-width: 1199px) {
+  .connect-image {
+    width: 250px;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .connect-image {
+    width: 200px;
+  }
+  .connect-button {
+    padding: 18px 40px;
+  }
+  .connect-text {
+    font-size: 20px;
+  }
+  .connect-button {
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .connect-image {
+    width: 170px;
+  }
+  .connect-pattern {
+    width: 90%;
+  }
+}
+@media only screen and (max-width: 520px) {
+  .connect-image {
+    width: 150px;
+  }
+  .connect-text {
+    font-size: 18pxpx;
+  }
+  .connect-button {
+    font-size: 16px;
+  }
+}

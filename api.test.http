@@ -1,0 +1,36 @@
+### POST
+POST http://localhost:8081/api/v1/referral/referral-code HTTP/1.1
+content-type: application/json
+
+{
+    "message": "Hello world",
+    "signature": "0x30755ed65396facf86c53e6217c52b4daebe72aa4941d89635409de4c9c7f9466d4e9aaec7977f05e923889b33c0d0dd27d7226b6e6f56ce737465c5cfd04be400"
+}
+
+### GET
+GET http://localhost:8081/api/v1/referral/wallet-refferals HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MzNkMjg0MjUyMmIzMGUzOGYyZDEzMDkiLCJleHBpcmVzSW4iOjE2NjUwMzkwMDA3OTgsImlhdCI6MTY2NDk1MjYwMH0.FaiYJxM-fU0B6DKtbgpE_94f48e4ZmfFWF_sb5_aois
+
+### GET
+GET http://localhost:8081/api/v1/auth/session HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MzNkMjAwZDQ0NGVjYjBjNTE2OTdiODYiLCJleHBpcmVzSW4iOjE2NjUwMzgyMjAwMTcsImlhdCI6MTY2NDk1MTgyMH0.K0cDvQ1hTBHl99PFOkXqtV0ehYvwQlpE-x2dbcGUGFI
+
+
+
+### GET
+GET http://localhost:8081/api/v1/referral/check-referral-code/lkdsjf HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2MzNkMjAwZDQ0NGVjYjBjNTE2OTdiODYiLCJleHBpcmVzSW4iOjE2NjUwMzgyMjAwMTcsImlhdCI6MTY2NDk1MTgyMH0.K0cDvQ1hTBHl99PFOkXqtV0ehYvwQlpE-x2dbcGUGFI
+
+
+
+### POST
+POST http://localhost:8081/api/v1/referral/join-referral-code/191898a6548f300a8f6c4dcd209cd42c03054df95991d9f46a8d74dee6f096bd HTTP/1.1
+content-type: application/json
+
+{
+    "message": "Hello world",
+    "signature": "0x30755ed65396facf86c53e6217c52b4daebe72aa4941d89635409de4c9c7f9466d4e9aaec7977f05e923889b33c0d0dd27d7226b6e6f56ce737465c5cfd04be400"
+}

@@ -1,0 +1,57 @@
+.joinwith-us-joinWithUs {
+  background-color: #141119;
+  padding: 100px 0;
+}
+.joinwith-us-wrapper {
+  width: 90%;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 50px 0;
+  border-bottom: 1.2px solid #191d24;
+}
+.joinwith-us-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 28.8px;
+  line-height: 43px;
+  text-align: center;
+  color: #ffffff;
+}
+.joinwith-us-socialsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding-top: 40px;
+}
+.joinwith-us-iconContainer {
+  width: 82.8px;
+  height: 82.8px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #191d24;
+}
+.joinwith-us-iconContainer:hover {
+  background: linear-gradient(
+    96.24deg,
+    #276ea3 0.15%,
+    #0fb3c5 49.29%,
+    #0cc77d 98.43%
+  );
+}
+.joinwith-us-icon {
+  width: 40px;
+  color: #fff;
+}
+@media only screen and (max-width: 1199px) {
+  .joinwith-us-iconContainer {
+    width: 50px;
+    height: 50px;
+  }
+  .joinwith-us-joinwith-us-icon {
+    width: 24px;
+  }
+}

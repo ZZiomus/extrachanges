@@ -1,0 +1,31 @@
+.copy-right-wrapper {
+  max-width: 1500px;
+  max-width: 1500px;
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 30px;
+}
+.copy-right-item {
+  font-family: "Graphik";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19.2px;
+  line-height: 29px;
+  letter-spacing: -0.6px;
+  color: rgba(244, 244, 244, 0.8);
+  padding: 7px 0;
+}
+.copy-right-privacy {
+  color: #fff;
+}
+@media only screen and (max-width: 520px) {
+  .copy-right-wrapper {
+    flex-direction: column;
+  }
+  .copy-right-item {
+    font-size: 16px;
+  }
+}

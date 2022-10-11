@@ -1,0 +1,990 @@
+
+@media (min-width: 1400px) and (max-width: 1599px) {
+	.container {
+		max-width: 1220px;
+	}
+    .hero-img {
+        right: 7%;
+    }
+    .hero-img img {
+        width: 632px;
+    }
+    h1 {
+        font-size: 45px;
+        line-height: 56px;
+    }
+    .hero-text p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .table-box img {
+        right: 13%;
+    }
+    .table-arrow-left img {
+        left: 9%;
+    }
+    .join-box h2::before {
+        top: -24px;
+    }
+    .join-box h2 {
+        font-size: 28px;
+    }
+    .join-box p {
+        font-size: 20px;
+    }
+    .join-box a {
+        width: 433px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 22px;
+    }
+    .roadmap-box p {
+        font-size: 18px;
+        line-height: 22px;
+        margin-bottom: 18px;
+    }
+    .roadmap-box {
+        height: 338px;
+    }
+
+    .hero-text h1::before {
+        top: -20px;
+    }
+    .roadmap-title h2 {
+        font-size: 26px;
+    }
+    .roadmap-title p {
+        font-size: 18px;
+        line-height: 21.63px;
+        padding: 0 4%;
+    }
+    .program-text p {
+        font-size: 18px;
+        line-height: 23.5px;
+        margin-bottom: 20px;
+    }
+    .program-text h2 {
+        font-size: 24px;
+    }
+    .video-wrapper {
+        margin: 0 70px;
+    }
+    .video-wrapper iframe {
+        height: 470px;
+    }
+    .roadmap-title-2 h2 {
+        font-size: 30px;
+    }
+    .roadmap-title-2 p {
+        font-size: 20px;
+    }
+    .roadmap-box-2 {
+        height: 380px;
+    }
+    .copy-text-right a {
+        font-size: 17.2px;
+    }
+    .copy-text p {
+        font-size: 15.8px;
+    }
+}
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1399px) {
+    .container {
+        max-width: 1170px;
+    }
+    #options .dropdown-toggle {
+        font-size: 16px;
+    }
+    .flagstrap-icon {
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 0px;
+    }
+    #menu li a {
+        font-size: 16px;
+    }
+    .hero-text h1::before {
+        top: -20px;
+    }
+    .hero-img img {
+        width: 100%;
+    }
+    .hero-img {
+        right: 0;
+    }
+    .hero-text h1 {
+        margin-bottom: 25px;
+        font-size: 42px;
+        line-height: 60px;
+    }
+    .hero-text p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .logo a {
+        width: 140px;
+        height: 52px;
+        line-height: 52px;
+        font-size: 16px;
+    }
+    .logo a img {
+        width: 25px;
+    }
+    .program-shape img {
+        width: 100%;
+    }
+    .program-shape {
+        top: 20%;
+    }
+    .program-img img {
+        width: 100%;
+    }
+    .program-text h2 {
+        font-size: 22px;
+    }
+    .program-text p {
+        font-size: 17px;
+        line-height: 22.5px;
+    }
+    .video-wrapper iframe {
+        height: 400px;
+    }
+    .video-wrapper {
+        margin: 0 100px;
+    }
+    .table-box-2 {
+        margin-left: 105px;
+    }
+    .table-box {
+        width: 395px;
+    }
+    .table-box h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .table-box p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .table-box img {
+        width: 75px;
+        right: 19%;
+        margin-top: 20px;
+    }
+    .table-arrow-left img {
+        left: 8%;
+    }
+    .join-box h2 {
+        font-size: 26px;
+    }
+    .join-box p {
+        font-size: 18px;
+    }
+    .join-box a {
+        width: 392px;
+        height: 63px;
+        line-height: 60px;
+        font-size: 21px;
+    }
+    .table-box {
+        border-radius: 30px;
+    }
+    .roadmap-title p {
+        font-size: 16px;
+        line-height: 20.63px;
+        margin-bottom: 16px;
+        padding: 0 7%;
+    }
+    .roadmap-title h2 {
+        font-size: 24px;
+    }
+    .roadmap-box h4 {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    .roadmap-box p {
+        line-height: 20.63px;
+        font-size: 16px;
+        margin-bottom: 18px;
+    }
+    .roadmap-box {
+        height: 295px;
+    }
+    .roadmap-title-2 h2 {
+        font-size: 28px;
+    }
+    .roadmap-title-2 p {
+        font-size: 18px;
+    }
+    .roadmap-title-2 {
+        margin-bottom: 80px;
+    }
+    .roadmap-box-2 {
+        height: 357px;
+    }
+    .footer-text h3 {
+        font-size: 22px;
+    }
+    .footer-text p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .footer-menu h3 {
+        font-size: 17px;
+        margin-bottom: 22px;
+    }
+    .footer-menu ul li a {
+        font-size: 16px;
+    }
+    .copy-text-right a {
+        font-size: 15px;
+    }
+    .copy-text p {
+        font-size: 14px;
+    }
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        max-width: 978px;
+    }
+    .hero-img img {
+        width: 100%;
+    }
+    #options .dropdown-toggle {
+        font-size: 16px;
+    }
+    .flagstrap-icon {
+        width: 16px;
+        height: 16px;
+        top: 0;
+    }
+    #menu li {
+        margin-left: 28px;
+    }
+    .hero-text h1::before {
+        top: -20px;
+    }
+    .hero-img {
+        right: 0;
+    }
+    .hero-text h1 {
+        margin-bottom: 25px;
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .hero-text p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .program-area.pt-40 {
+        padding-top: 70px;
+    }
+    .program-text h2::before {
+        top: -23px;
+    }
+    .logo a {
+        width: 140px;
+        height: 52px;
+        line-height: 52px;
+        font-size: 16px;
+    }
+    .logo a img {
+        width: 25px;
+    }
+    .program-img img {
+        width: 100%;
+    }
+    .program-text h2 {
+        font-size: 18px;
+    }
+    .program-text p {
+        font-size: 16px;
+        line-height: 22.5px;
+    }
+    .video-wrapper.pt-140.text-center {
+        margin: 0 50px;
+    }
+    .video-wrapper iframe {
+        height: 370px;
+    }
+    .table-area.pt-150 {
+        padding-top: 100px;
+    }
+    .table-box-2 {
+        margin-left: 50px;
+    }
+    .table-box {
+        width: 400px;
+    }
+    .table-box h3 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .table-box p {
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .join-shape-1 img {
+        width: 500px;
+    }
+    .join-shape-2 img {
+        width: 500px;
+    }
+    .table-box img {
+        width: 65px;
+        right: 3%;
+        margin-top: 15px;
+    }
+    .join-box h2::before {
+        top: -25px;
+    }
+    .join-box h2 {
+        font-size: 22px;
+        margin-bottom: 16px;
+    }
+    .join-box p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .join-box a {
+        height: 55px;
+        line-height: 53px;
+        font-size: 19px;
+        width: 340px;
+    }
+    .roadmap-title h2::before {
+        top: -20px;
+    }
+    .roadmap-title h2 {
+        font-size: 22px;
+        margin-bottom: 19px;
+    }
+    .table-arrow-left img {
+        left: -1%;
+    }
+    .table-box-6 img {
+        bottom: 28%;
+    }
+    .table-box {
+        border-radius: 30px;
+    }
+    .roadmap-title p {
+        font-size: 15px;
+        line-height: 20.63px;
+        margin-bottom: 15px;
+    }
+    .roadmap-box h4 {
+        font-size: 17px;
+        margin-bottom: 18px;
+    }
+    .roadmap-box p {
+        line-height: 19.63px;
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .roadmap-box {
+        height: 297px;
+    }
+    .brand-img img {
+        width: 400px;
+    }
+    .roadmap-title-2 h2 {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    .roadmap-title-2 p {
+        font-size: 17px;
+    }
+    .roadmap-title-2 {
+        margin-bottom: 80px;
+    }
+    .roadmap-box-2 {
+        height: 355px;
+    }
+    .footer-social a {
+        width: 60.8px;
+        height: 60.8px;
+        line-height: 60.8px;
+    }
+    .footer-social a img {
+        width: 20px;
+    }
+    .footer-text h3 {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .footer-menu h3 {
+        font-size: 17.6px;
+        margin-bottom: 18px;
+    }
+    .footer-text p {
+        font-size: 16px;
+        line-height: 22px;
+        width: 100%;
+    }
+    .footer-menu ul li a {
+        font-size: 15px;
+    }
+    .footer-menu ul li {
+        margin-bottom: 12px;
+    }
+    .copy-text {
+        margin-top: 60px;
+    }
+    .copy-text p {
+        font-size: 14px;
+    }
+    .copy-text-right {
+        margin-top: 60px;
+    }
+    .copy-text-right a {
+        font-size: 15px;
+    }
+    .program-shape img {
+        width: 100%;
+    }
+    .program-shape {
+        top: 20%;
+    }
+    #menu li a {
+        font-size: 16px;
+    }
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .container {
+        max-width: 758px;
+    }
+    .hero-img img {
+        width: 100%;
+    }
+    #options .dropdown-toggle {
+        font-size: 15px;
+    }
+    .flagstrap-icon {
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 0;
+    }
+    .hero-img {
+        right: 0;
+    }
+    #menu li a {
+        font-size: 14px;
+    }
+    #menu li {
+        margin-left: 15px;
+    }
+    .hero-text h1::before{
+        width: 60px;
+        top: -20px;
+    }
+    h1 {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .hero-text h1 {
+        margin-bottom: 16px;
+    }
+    .hero-text p {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .program-area.pt-40 {
+        padding-top: 70px;
+    }
+    .program-text h2::before {
+        top: -20px;
+        width: 60px;
+    }
+    .logo a {
+        width: 100%;
+        height: 43px;
+        line-height: 43px;
+        font-size: 15px;
+    }
+    .logo a img {
+        width: 21px;
+    }
+    .program-img img {
+        width: 100%;
+    }
+    .program-text h2 {
+        font-size: 17px;
+    }
+    .program-text {
+        padding-left: 0
+    }
+    .program-text p {
+        font-size: 15px;
+        line-height: 20.5px;
+    }
+    .video-wrapper.pt-140.text-center {
+        margin: 0 50px;
+    }
+    .video-wrapper iframe {
+        height: 320px;
+    }
+    .table-area.pt-150 {
+        padding-top: 100px;
+    }
+    .table-box-2 {
+        margin-left: 50px;
+    }
+    .table-box {
+        width: 300px;
+        padding: 20px;
+    }
+    .table-box h3 {
+        font-size: 16px;
+        margin-bottom: 13px;
+    }
+    .table-box p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .table-box img {
+        width: 65px;
+        right: 0%;
+        margin-top: 15px;
+    }
+    .row.align-items-center.table-padding.pb-140 {
+        padding-bottom: 100px;
+    }
+    .join-box h2::before {
+        top: -20px;
+        width: 60px;
+    }
+    .join-box h2 {
+        font-size: 20px;
+        margin-bottom: 17px;
+    }
+    .join-box p {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    .join-box a {
+        height: 55px;
+        line-height: 53px;
+        font-size: 17px;
+        width: 320px;
+    }
+    .roadmap-title h2::before {
+        top: -20px;
+    }
+    .roadmap-title h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .table-arrow-left img {
+        left: -1%;
+    }
+    .table-box-6 img {
+        bottom: 28%;
+    }
+    .table-box {
+        border-radius: 20px;
+    }
+    .roadmap-title p {
+        font-size: 14px;
+        line-height: 18.63px;
+        margin-bottom: 16px;
+        padding: 0;
+    }
+    .roadmap-box h4 {
+        font-size: 18px;
+        margin-bottom: 19px;
+    }
+    .roadmap-box p {
+        line-height: 18.63px;
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .roadmap-box {
+        height: 298px;
+        padding: 25px;
+    }
+    .brand-img img {
+        width: 360px;
+    }
+    .roadmap-title-2 h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .roadmap-title-2 p {
+        font-size: 16px;
+    }
+
+    .roadmap-box-2 {
+        height: 390px;
+    }
+    .footer-social a {
+        width: 55.8px;
+        height: 55.8px;
+        line-height: 55.8px;
+    }
+    .footer-social a img {
+        width: 20px;
+    }
+    .footer-text h3 {
+        font-size: 20px;
+        margin-bottom: 22px;
+    }
+    .footer-menu h3 {
+        font-size: 16.6px;
+        margin-bottom: 16px;
+    }
+    .footer-text p {
+        font-size: 14px;
+        line-height: 20px;
+        width: 100%;
+    }
+    .footer-menu ul li a {
+        font-size: 14px;
+    }
+    .footer-menu ul li {
+        margin-bottom: 12px;
+    }
+    .copy-text {
+        margin-top: 60px;
+    }
+    .copy-text p {
+        font-size: 12.8px;
+    }
+    .copy-text-right {
+        margin-top: 60px;
+    }
+    .copy-text-right a {
+        font-size: 15.2px;
+    }
+    .program-shape img {
+        width: 100%;
+    }
+    .program-shape {
+        top: 32%;
+    }
+    .join-shape-1 img {
+        width: 400px;
+    }
+    .join-shape-2 img {
+        width: 400px;
+    }
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .flagstrap{
+        margin-left: auto;
+        margin-right: 50px;
+    }
+    #options .dropdown-toggle{
+        width: 100px;
+        height: 33px;
+        font-size: 15px;
+    }
+    #options .dropdown-menu{
+        width: 100px;
+        min-width: 100px;
+    }
+    .flagstrap-icon {
+        width: 16px;
+        height: 16px;
+        position: relative;
+        top: 0;
+    }
+    .hero-area {
+        height: auto;
+
+    }
+    .hero-img img {
+        width: 300px;
+        margin: auto;
+    }
+    .hero-img {
+        right: 0;
+        margin-top: 120px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    #menu li a {
+        font-size: 16px;
+    }
+    
+    .hero-text h1::before{
+        width: 60px;
+        top: -20px;
+    }
+    h1 {
+        font-size: 25px;
+        line-height: 38px;
+    }
+    .hero-text h1 {
+        margin-bottom: 16px;
+    }
+    .hero-text p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .video-wrapper.pt-140.text-center {
+        padding-top: 100px;
+    }
+    .program-img {
+        margin-bottom: 60px;
+    }
+    .program-area.pt-40 {
+        padding-top: 70px;
+    }
+    .program-text h2::before {
+        top: -20px;
+        width: 60px;
+    }
+    .logo a {
+        width: 90px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+    }
+    .logo a img {
+        width: 21px;
+    }
+    .program-img img {
+        width: 100%;
+    }
+    .program-text h2 {
+        font-size: 17px;
+    }
+    .program-text {
+        padding-left: 0
+    }
+    .program-text p {
+        font-size: 16px;
+        line-height: 21.5px;
+    }
+    .video-wrapper iframe {
+        height: 240px;
+    }
+    .table-img {
+        margin-bottom: 30px;
+    }
+
+    .table-area.pt-150 {
+        padding-top: 100px;
+    }
+    .table-box-2 {
+        margin-left: 0px;
+    }
+    .table-box {
+        width: auto;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 25px;
+    }
+    .table-box h3 {
+        font-size: 16px;
+        margin-bottom: 13px;
+    }
+    .table-box p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .table-box img {
+        display: none;
+    }
+    .row.align-items-center.table-padding.pb-140 {
+        padding-bottom: 30px;
+    }
+    .join-area.pt-120.pb-120 {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .join-box h2::before {
+        top: -20px;
+        width: 55px;
+    }
+    .join-box h2 {
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+    .join-box p {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+    .join-box a {
+        height: 50px;
+        line-height: 47px;
+        font-size: 16px;
+        width: 100%;
+    }
+    .roadmap-title h2::before {
+        top: -20px;
+    }
+    .roadmap-title h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+   
+    .roadmap-title p {
+        font-size: 14px;
+        line-height: 18.63px;
+        margin-bottom: 16px;
+    }
+    .roadmap-box h4 {
+        font-size: 18px;
+        margin-bottom: 19px;
+    }
+    .roadmap-box p {
+        line-height: 18.63px;
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .roadmap-box {
+        height: auto;
+        padding: 20px;
+        padding-bottom: 10px;
+        margin-bottom: 30px;
+    }
+    .brand-area.pt-150.pb-130 {
+        padding-top: 90px;
+        padding-bottom: 80px;
+    }
+    .brand-img img {
+        width: 280px;
+    }
+    .roadmap-title-2 h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    .roadmap-title-2 p {
+        font-size: 14px;
+        padding: 0;
+    }
+    .roadmap-title.roadmap-title-2.text-center.mb-160 {
+        margin-bottom: 60px;
+    }
+    .roadmap-box-2 {
+        height: auto;
+    }
+    .roadmap-box-2 {
+        height: auto;
+    }
+    .footer-area {
+        margin-top: 40px;
+        padding: 50px 0;
+    }
+    .footer-text {
+        margin-bottom: 35px;
+    }
+    .footer-menu {
+        margin-bottom: 35px;
+    }
+    .footer-social a {
+        width: 55.8px;
+        height: 55.8px;
+        line-height: 55.8px;
+    }
+    .footer-social a img {
+        width: 20px;
+    }
+    .footer-text h3 {
+        font-size: 20px;
+        margin-bottom: 22px;
+    }
+    .footer-menu h3 {
+        font-size: 16.6px;
+        margin-bottom: 16px;
+    }
+    .footer-text p {
+        font-size: 14px;
+        line-height: 20px;
+        width: 100%;
+    }
+    .footer-menu ul li a {
+        font-size: 14px;
+    }
+    .footer-menu ul li {
+        margin-bottom: 12px;
+    }
+    .copy-text {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .copy-text p {
+        font-size: 12.8px;
+    }
+    .copy-text-right {
+        margin-top: 20px;
+        text-align: center !important;
+    }
+    .copy-text-right a {
+        font-size: 15.2px;
+    }
+    .program-shape img {
+        width: 100%;
+    }
+    .program-shape {
+        top: 32%;
+    }
+    .join-shape-1 img {
+        width: 200px;
+    }
+    .join-shape-2 img {
+        width: 200px;
+    }
+
+    .back-to-top {
+        right: 15px;
+        bottom: 15px;
+    }
+
+
+
+    /* menu active */
+    .hamburger-menu{
+        display: block;
+    }
+    #menu{
+        position: fixed;
+        top: 0;
+        left: -100%;
+        width: 100vw;
+        height: 100vh;
+        background: #151920;
+        z-index: -1;
+        -webkit-transform: translateX(-50%);
+            -ms-transform: translateX(-50%);
+                transform: translateX(-50%);
+        padding-top: 88px;
+        text-align: left !important;
+        -webkit-transition: 0.3s;
+        -o-transition: 0.3s;
+        transition: 0.3s;
+        padding-left: 15px;
+        margin-top: 25px;
+    }
+    #menu.current{
+        left: 50%;
+    }
+    #menu li {
+        display: block;
+        padding-right: 0;
+        margin-left: 0;
+        margin-bottom: 15px;
+    }
+    #menu li a::before {
+        bottom: 0px;
+    }
+}
